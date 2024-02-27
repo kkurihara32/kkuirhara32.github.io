@@ -1,32 +1,11 @@
-Initio - Free, multipurpose html5 template
-=============
+# Draco
+A free PSD & HTML resume template.
+See the demo [here](http://draco.afnizarnur.com/) and download the latest release [here](https://github.com/afnizarnur/draco/releases).
+![Draco](https://cloud.githubusercontent.com/assets/4648648/26038614/72fe3772-3936-11e7-8f88-3781aea67bdc.png)
 
-Initio is a fully featured html5 theme which will help you create a stylish personal or company site. 
-6 page layout templates should cover all your development needs. 
-Font Awesome 4, parallax effects and more are included (but can be turned off of course)
+## License
+<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />
 
+Draco is licensed under Creative Commons [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Which means that you are free to copy and redistribute the material in any medium or format and remix, transform, and build upon the material.
 
-License
--------
-**Creative Commons Attribution 3.0** - http://creativecommons.org/licenses/by/3.0/
-
-
-Bug tracker
------------
-
-Found a bug? Please create an issue here on GitHub! 
-https://github.com/pozh/Initio/issues
-
-
-
-Credits
--------
-* Design and development: **Sergey Pozhilov** - http://pozhilov.com
-* More free templates by Sergey: http://gettemplate.com
-
-Photos used in the template
--------
-* http://www.publicdomainpictures.net/view-image.php?image=19999
-* http://www.publicdomainpictures.net/view-image.php?image=6354
-* http://imcreator.com/free/business/macbook-computer
-* http://unsplush.com
+This template is designed and developed by Afnizar Nur Ghifari.
