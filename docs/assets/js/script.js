@@ -1,7 +1,11 @@
-$('.navbar').on('click', 'a[href^="#"]', function (event) {
-    event.preventDefault();
+$( document ).ready(function() {
+    var w = window.innerWidth;
+   
+    if(w > 767){
+        $('#menu-jk').scrollToFixed();
+    }else{
+       
+    }
+    
+})
 
-    $('html, body').animate({
-        scrollTop: $($.attr(this, 'href')).offset().top
-    }, 500);
-});
