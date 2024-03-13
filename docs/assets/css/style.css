@@ -349,6 +349,10 @@ body {
         color: #009b7f;
         font-size: .8rem;
         font-family: "mouse-500", Arial, Helvetica, sans-serif; }
+      .profile-container .data-box .exp-row span a {
+        color: #009b7f;
+        font-size: .8rem;
+        font-family: "mouse-500", Arial, Helvetica, sans-serif; }
       .profile-container .data-box .exp-row p {
         margin-top: 5px;
         text-indent: 15px; }
